@@ -1,3 +1,6 @@
+## Introduce
+A record of completing a course
+
 # Hardhat Fund Me
 
 *This repo has been updated to work with Sepolia Testnet over Goerli.*
